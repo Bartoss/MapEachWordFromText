@@ -1,0 +1,2 @@
+# MapEachWordFromText
+Java Gradle Project 
